@@ -1,4 +1,4 @@
-HotKeySet("^{TAB}", "OpenApps")
+HotKeySet("+{TAB}", "OpenApps")
 
 Func OpenApps()
     Send("!^{TAB}")
